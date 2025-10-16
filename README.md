@@ -49,7 +49,7 @@ I aim to build **efficient**, **high-performance**, and **highly scalable system
 ---
 
 ### 📈 GitHub Stats
-![Victor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdrews&layout=compact&theme=radical)  
+![Victor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdrews&layout=compact&theme=radical&cache_seconds=1800)  
 
 
 ---
