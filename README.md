@@ -6,7 +6,8 @@ I aim to build **efficient**, **high-performance**, and **highly scalable system
 ---
 
 ### 🚀 About Me
-- 🔧 Focus: **Full Stack Development** (strong preference for **Backend**)  
+- 🔧 Focus: **Full Stack Development** (strong preference for **Backend**) & **Marchine Learning**
+- 🤖 **Artifical Intelligence/Machine Learning Researcher**
 - ⚙️ DevOps: CI/CD pipelines, Docker, Kubernetes, and deployment automation  
 - ⚡ Passionate about **system optimization** and **high-availability architectures**  
 - 🎯 Seeking a **major turning point** in my career — constantly learning and evolving  
@@ -32,6 +33,7 @@ I aim to build **efficient**, **high-performance**, and **highly scalable system
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white).
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white).
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white).
+
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
