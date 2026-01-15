@@ -8,7 +8,7 @@ I aim to build **efficient**, **high-performance**, and **highly scalable system
 ### 🚀 About Me
 - 🔧 Focus: **Full Stack Development** (strong preference for **Backend**) & **Marchine Learning**
 - 🤖 **Artifical Intelligence/Machine Learning Researcher**
-- ⚙️ DevOps: CI/CD pipelines, Docker, Kubernetes, and deployment automation  
+- ⚙️ DevOps: CI/CD pipelines, Docker
 - ⚡ Passionate about **system optimization** and **high-availability architectures**  
 - 🎯 Seeking a **major turning point** in my career — constantly learning and evolving  
 
@@ -43,7 +43,6 @@ I aim to build **efficient**, **high-performance**, and **highly scalable system
 
 #### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
