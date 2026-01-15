@@ -6,10 +6,10 @@ I aim to build **efficient**, **high-performance**, and **highly scalable system
 ---
 
 ### 🚀 About Me
-- 🔧 Focus: **Full Stack Development** (strong preference for **Backend**) & **Marchine Learning**
-- 🤖 **Artifical Intelligence/Machine Learning Researcher**
+- 🔧 Focus: **Full Stack Development** && **CyberSecurity**
+- 🤖 **CyberSecurity Researcher**
 - ⚙️ DevOps: CI/CD pipelines, Docker
-- ⚡ Passionate about **system optimization** and **high-availability architectures**  
+- ⚡ Passionate about **systems optimization**, **high-availability architectures**, **performance** and **security by design**
 - 🎯 Seeking a **major turning point** in my career — constantly learning and evolving  
 
 ---
@@ -44,12 +44,6 @@ I aim to build **efficient**, **high-performance**, and **highly scalable system
 #### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-![Victor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdrews&layout=compact&theme=radical&cache_seconds=1800)  
-
 
 ---
 
